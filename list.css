@@ -1,0 +1,36 @@
+body{
+
+	color:#D23369;
+	margin-top: 30px;
+
+}
+
+
+.top-container {
+   background-color: #FFCAC8;
+
+  position: relative;
+  padding: 5% ;
+
+  font-size: 1.5rem;
+  color: #D23369;
+
+}
+.bottom-container
+ {
+  background-color: #F7A4A4;
+  color:#B01E68;
+  padding:2% 5% 10% ;
+
+  font-size: 1.25rem;
+}
+.button{
+	color:red;
+}
+h1{color:#0002A1;
+padding:1% 30%;
+}
+.mark{font-size: 10px;}
+#add{
+color:#9C254D;
+font-size:16px;}
